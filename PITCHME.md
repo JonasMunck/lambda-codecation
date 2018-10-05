@@ -49,7 +49,7 @@ zappa deploy dev
 
 - Ticket website
 - highly scalable
-- payments => high SLA
+- payments -- high SLA
 
 
 
