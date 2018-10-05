@@ -1,4 +1,6 @@
-# AWS Lambda (and django)
+# AWS Lambda, zappa
+
+(and django)
 
 ---
 
@@ -23,4 +25,26 @@ Scalability, random crashes, ip configs, update OS,...
 
 - python wsgi-wrapper around lambda
 - "serverless" web hosting for your Python apps
+
+---
+
+### Django 
+
+Web framework written in Python
+
+---
+
+```
+python manage.py runserver
+```
+
+```
+zappa init
+zappa deploy dev
+```
+
+---
+
+
+
 
