@@ -45,6 +45,11 @@ zappa deploy dev
 
 ---
 
+## Business case
+
+- Ticket website
+- highly scalable
+- payments => high SLA
 
 
 
